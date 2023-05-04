@@ -6,5 +6,5 @@ ou #Sistema de cadastro de Jogos
 Para rodar este projeto em sua máquina, por favor digite:
 
 ```
-NPM install react
+node app.js
 ```
